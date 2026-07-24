@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Nursultan+Khalmuratov;Founder+of+KETA.COMP;Building+AI-powered+Business+Systems;Engineering+Digital+Ecosystems+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nursultan+Khalmuratov;Founder+of+KETA.COMP;Building+AI-Powered+Business+Systems;Engineering+Digital+Ecosystems+🚀"/>
 
 <br>
+
+<h3>
+Founder • Product Builder • AI Automation
+</h3>
+
+<p>
+Building software that transforms businesses into digital ecosystems.
+</p>
+
+<p>
 
 <a href="https://keta.uz">
 <img src="https://img.shields.io/badge/Website-keta.uz-00C853?style=for-the-badge"/>
@@ -16,59 +26,85 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
+</p>
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-Product Builder from Uzbekistan 🇺🇿
+```yaml
+Name:        Nursultan Khalmuratov
+Country:     Uzbekistan 🇺🇿
+Region:      Republic of Karakalpakstan
+District:    Kegeyli District
 
-Founder of **KETA.COMP** — building AI-first software that helps businesses grow through automation.
+Company:     KETA.COMP
+Role:        Founder & Product Builder
 
-### Current Focus
+Mission:
+Building AI-powered software
+that helps businesses grow faster.
+```
 
-- 🤖 Artificial Intelligence
+---
+
+# 🧠 What I Build
+
+- 🤖 Artificial Intelligence Applications
 - 🏢 ERP Systems
 - 📊 CRM Platforms
-- ☁️ SaaS Products
 - ⚡ Business Automation
-- 🌐 Modern Web Apps
+- ☁️ SaaS Products
+- 🌍 Modern Web Applications
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙ Tech Stack
 
-## Frontend
+### Frontend
 
-![React](https://skillicons.dev/icons?i=react,ts,vite,tailwind,nextjs)
+<p>
 
-## Backend
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind"/>
 
-![Backend](https://skillicons.dev/icons?i=nodejs,postgres,supabase)
+</p>
 
-## AI
+### Backend
 
-OpenAI • Claude • Gemini • Ollama • DeepSeek • Qwen
+<p>
 
-## Tools
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase"/>
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare)
+</p>
+
+### AI
+
+OpenAI • Claude • Gemini • Ollama • Qwen • DeepSeek
+
+### Dev Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,figma"/>
+
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🚀 KETA.COMP | Engineering Digital Ecosystems |
-| 🤖 Keleshek AI | AI Career & Education Platform |
-| 💒 Toyxana Dream Hub | Digital Wedding Platform |
-| 🤝 Huggables Buddy Finder | AI Social Platform |
+| 🏢 KETA.COMP | Engineering Digital Ecosystems |
+| 🤖 Keleshek AI | AI Education Platform |
+| 💒 Toyxana Dream Hub | Wedding Hall Ecosystem |
+| 🤝 Huggables Buddy Finder | AI Matching Platform |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -80,7 +116,7 @@ OpenAI • Claude • Gemini • Ollama • DeepSeek • Qwen
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -100,21 +136,11 @@ OpenAI • Claude • Gemini • Ollama • DeepSeek • Qwen
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NurSay2028/NurSay2028/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </p>
 
@@ -122,18 +148,22 @@ OpenAI • Claude • Gemini • Ollama • DeepSeek • Qwen
 
 # 📫 Contact
 
-📧 **nursultansayyora@gmail.com**
+📍 **Kegeyli District, Republic of Karakalpakstan, Uzbekistan 🇺🇿**
 
 🌐 https://keta.uz
 
-💬 Telegram: @nursultan_khalmuratov
+📧 nursultansayyora@gmail.com
+
+💬 https://t.me/nursultan_khalmuratov
 
 ---
 
 <div align="center">
 
-## 🚀 Building products that solve real-world problems.
+## 🚀 Engineering Digital Ecosystems
 
-⭐ If you like my work, consider starring my repositories.
+*"Every great product starts with solving a real problem."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
