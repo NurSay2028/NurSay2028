@@ -1,58 +1,67 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Nursultan Khalmuratov</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nursultan+Khalmuratov;Founder+of+KETA.COMP;Building+AI-Powered+Business+Systems;Engineering+Digital+Ecosystems+🚀"/>
-
-<br>
-
-<h3>
-Founder • Product Builder • AI Automation
+<h3 align="center">
+Founder of <a href="https://keta.uz">KETA.COMP</a> • Product Builder • AI Automation
 </h3>
 
-<p>
-Building software that transforms businesses into digital ecosystems.
+<p align="center">
+Building AI-powered business systems that solve real-world problems.
 </p>
 
-<p>
+<p align="center">
+<a href="https://github.com/NurSay2028">
+<img src="https://komarev.com/ghpvc/?username=NurSay2028&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/NurSay2028?tab=followers">
+<img src="https://img.shields.io/github/followers/NurSay2028?style=social" />
+</a>
+</p>
+
+<p align="center">
 
 <a href="https://keta.uz">
-<img src="https://img.shields.io/badge/Website-keta.uz-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website-KETA.UZ-16a34a?style=for-the-badge"/>
 </a>
 
 <a href="https://t.me/nursultan_khalmuratov">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/nursultan_khalmuratov">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
-
-</div>
 
 ---
 
 # 🚀 About Me
 
 ```yaml
-Name:        Nursultan Khalmuratov
-Country:     Uzbekistan 🇺🇿
-Region:      Republic of Karakalpakstan
-District:    Kegeyli District
+Name: Nursultan Khalmuratov
 
-Company:     KETA.COMP
-Role:        Founder & Product Builder
+Country: Uzbekistan 🇺🇿
+
+Region: Republic of Karakalpakstan
+
+District: Kegeyli District
+
+Company: KETA.COMP
+
+Role: Founder & Product Builder
 
 Mission:
-Building AI-powered software
-that helps businesses grow faster.
+Building AI-first software
+that helps businesses
+grow through automation.
 ```
 
 ---
 
 # 🧠 What I Build
 
-- 🤖 Artificial Intelligence Applications
+- 🤖 AI Applications
 - 🏢 ERP Systems
 - 📊 CRM Platforms
 - ⚡ Business Automation
@@ -61,50 +70,51 @@ that helps businesses grow faster.
 
 ---
 
-# ⚙ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase"/>
+### Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare" />
 </p>
 
 ### AI
 
-OpenAI • Claude • Gemini • Ollama • Qwen • DeepSeek
-
-### Dev Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,figma"/>
-
-</p>
+```
+OpenAI
+Claude
+Gemini
+DeepSeek
+Qwen
+Ollama
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏢 KETA.COMP | Engineering Digital Ecosystems |
-| 🤖 Keleshek AI | AI Education Platform |
-| 💒 Toyxana Dream Hub | Wedding Hall Ecosystem |
+| 🚀 KETA.COMP | Engineering Digital Ecosystems |
+| 🤖 Keleshek AI | AI Career Platform |
+| 💒 Toyxana Dream Hub | Digital Wedding Platform |
 | 🤝 Huggables Buddy Finder | AI Matching Platform |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -116,7 +126,7 @@ OpenAI • Claude • Gemini • Ollama • Qwen • DeepSeek
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -140,7 +150,7 @@ OpenAI • Claude • Gemini • Ollama • Qwen • DeepSeek
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&row=2&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -156,13 +166,15 @@ OpenAI • Claude • Gemini • Ollama • Qwen • DeepSeek
 
 💬 https://t.me/nursultan_khalmuratov
 
+📷 https://instagram.com/nursultan_khalmuratov
+
 ---
 
 <div align="center">
 
 ## 🚀 Engineering Digital Ecosystems
 
-*"Every great product starts with solving a real problem."*
+*"Building software that transforms businesses with AI."*
 
 ⭐ Thanks for visiting my profile!
 
