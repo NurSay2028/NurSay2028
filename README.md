@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="KETA.COMP Banner"/>
+  <img src="./banner.png" width="240" alt="KETA.COMP">
 </p>
 
 <h1 align="center">Hi 👋 I'm Nursultan Khalmuratov</h1>
@@ -14,7 +14,7 @@ Building AI-powered software that helps businesses automate, scale, and grow.
 
 <p align="center">
 <a href="https://keta.uz">
-<img src="https://img.shields.io/badge/Website-KETA.UZ-black?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Website-KETA.UZ-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://t.me/nursultan_khalmuratov">
@@ -24,7 +24,6 @@ Building AI-powered software that helps businesses automate, scale, and grow.
 <a href="https://instagram.com/nursultan_khalmuratov">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -43,24 +42,24 @@ Company:
   KETA.COMP
 
 Role:
-  Founder
-  Product Builder
+  Founder & Product Builder
 
 Mission:
-  Building digital ecosystems
-  powered by Artificial Intelligence.
+  Building AI-powered
+  business systems
+  that create real impact.
 ```
 
 ---
 
 # 💡 What I Build
 
-- 🤖 Artificial Intelligence Applications
+- 🤖 AI Applications
 - 🏢 ERP Systems
 - 📊 CRM Platforms
 - ⚡ Business Automation
 - ☁️ SaaS Products
-- 🌐 High-performance Web Applications
+- 🌐 Modern Web Applications
 
 ---
 
@@ -76,33 +75,21 @@ Mission:
 
 # 🌟 Featured Projects
 
-## 🦅 KETA.COMP
-
+### 🦅 KETA.COMP
 Engineering Digital Ecosystems
 
-Business Automation • AI • ERP • CRM
+### 🤖 Keleshek AI
+AI-powered education platform.
 
----
-
-## 🤖 Keleshek AI
-
-AI-powered education platform helping students choose careers and universities.
-
----
-
-## 💒 Toyxana Dream Hub
-
+### 💒 Toyxana Dream Hub
 Digital ecosystem for wedding halls.
 
----
-
-## 🤝 Huggables Buddy Finder
-
-AI-powered social matching platform.
+### 🤝 Huggables Buddy Finder
+AI-powered social platform.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -114,7 +101,7 @@ AI-powered social matching platform.
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -124,27 +111,17 @@ AI-powered social matching platform.
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NurSay2028&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -166,8 +143,8 @@ AI-powered social matching platform.
 
 ### Building Systems. Creating Impact.
 
-*"Every business deserves intelligent software."*
+*"Engineering digital ecosystems with AI."*
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
 
 </div>
