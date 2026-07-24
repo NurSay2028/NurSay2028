@@ -1,27 +1,20 @@
-<h1 align="center">👋 Hi, I'm Nursultan Khalmuratov</h1>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="KETA.COMP Banner"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Nursultan Khalmuratov</h1>
 
 <h3 align="center">
-Founder of <a href="https://keta.uz">KETA.COMP</a> • Product Builder • AI Automation
+Founder & Product Builder at <a href="https://keta.uz">KETA.COMP</a>
 </h3>
 
 <p align="center">
-Building AI-powered business systems that solve real-world problems.
+Building AI-powered software that helps businesses automate, scale, and grow.
 </p>
 
 <p align="center">
-<a href="https://github.com/NurSay2028">
-<img src="https://komarev.com/ghpvc/?username=NurSay2028&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-<a href="https://github.com/NurSay2028?tab=followers">
-<img src="https://img.shields.io/github/followers/NurSay2028?style=social" />
-</a>
-</p>
-
-<p align="center">
-
 <a href="https://keta.uz">
-<img src="https://img.shields.io/badge/Website-KETA.UZ-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website-KETA.UZ-black?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="https://t.me/nursultan_khalmuratov">
@@ -41,80 +34,75 @@ Building AI-powered business systems that solve real-world problems.
 ```yaml
 Name: Nursultan Khalmuratov
 
-Country: Uzbekistan 🇺🇿
+Location:
+  Kegeyli District,
+  Republic of Karakalpakstan,
+  Uzbekistan 🇺🇿
 
-Region: Republic of Karakalpakstan
+Company:
+  KETA.COMP
 
-District: Kegeyli District
-
-Company: KETA.COMP
-
-Role: Founder & Product Builder
+Role:
+  Founder
+  Product Builder
 
 Mission:
-Building AI-first software
-that helps businesses
-grow through automation.
+  Building digital ecosystems
+  powered by Artificial Intelligence.
 ```
 
 ---
 
-# 🧠 What I Build
+# 💡 What I Build
 
-- 🤖 AI Applications
+- 🤖 Artificial Intelligence Applications
 - 🏢 ERP Systems
 - 📊 CRM Platforms
 - ⚡ Business Automation
 - ☁️ SaaS Products
-- 🌍 Modern Web Applications
+- 🌐 High-performance Web Applications
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel,cloudflare,vscode,figma"/>
+
 </p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare" />
-</p>
-
-### AI
-
-```
-OpenAI
-Claude
-Gemini
-DeepSeek
-Qwen
-Ollama
-```
 
 ---
 
 # 🌟 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 KETA.COMP | Engineering Digital Ecosystems |
-| 🤖 Keleshek AI | AI Career Platform |
-| 💒 Toyxana Dream Hub | Digital Wedding Platform |
-| 🤝 Huggables Buddy Finder | AI Matching Platform |
+## 🦅 KETA.COMP
+
+Engineering Digital Ecosystems
+
+Business Automation • AI • ERP • CRM
 
 ---
 
-# 📊 GitHub Stats
+## 🤖 Keleshek AI
+
+AI-powered education platform helping students choose careers and universities.
+
+---
+
+## 💒 Toyxana Dream Hub
+
+Digital ecosystem for wedding halls.
+
+---
+
+## 🤝 Huggables Buddy Finder
+
+AI-powered social matching platform.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -126,7 +114,7 @@ Ollama
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -136,7 +124,7 @@ Ollama
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -146,19 +134,19 @@ Ollama
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NurSay2028&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📫 Contact
+# 🌍 Connect With Me
 
-📍 **Kegeyli District, Republic of Karakalpakstan, Uzbekistan 🇺🇿**
+<p align="center">
 
 🌐 https://keta.uz
 
@@ -168,14 +156,18 @@ Ollama
 
 📷 https://instagram.com/nursultan_khalmuratov
 
+</p>
+
 ---
 
 <div align="center">
 
-## 🚀 Engineering Digital Ecosystems
+# 🦅 KETA.COMP
 
-*"Building software that transforms businesses with AI."*
+### Building Systems. Creating Impact.
 
-⭐ Thanks for visiting my profile!
+*"Every business deserves intelligent software."*
+
+⭐ Thanks for visiting my profile.
 
 </div>
