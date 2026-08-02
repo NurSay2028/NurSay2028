@@ -1,15 +1,16 @@
+````md
 <p align="center">
   <img src="./banner.png" width="240" alt="KETA.COMP">
 </p>
 
-<h1 align="center">Hi 👋 I'm Nursultan Khalmuratov</h1>
+<h1 align="center">Sálem 👋 Men Nursultan Xalmuratov</h1>
 
 <h3 align="center">
-Founder & Product Builder at <a href="https://keta.uz">KETA.COMP</a>
+<a href="https://keta.uz">KETA.COMP</a> kompaniyasınıń negizlewshisi hám Product Builderi
 </h3>
 
 <p align="center">
-Building AI-powered software that helps businesses automate, scale, and grow.
+Bizneslerdi avtomatlastrıw, ösiriw hám rawajlandırıw ushın AI texnologiyalarına tiykarlanǵan sanlı sistemalardı jarataman.
 </p>
 
 <p align="center">
@@ -28,42 +29,43 @@ Building AI-powered software that helps businesses automate, scale, and grow.
 
 ---
 
-# 🚀 About Me
+# 🚀 Men haqqında
 
 ```yaml
-Name: Nursultan Khalmuratov
+Atı:
+  Nursultan Xalmuratov
 
-Location:
-  Kegeyli District,
-  Republic of Karakalpakstan,
-  Uzbekistan 🇺🇿
+Jaylasqan jer:
+  Kegeyli rayonı,
+  Qaraqalpaqstan Respublikası,
+  Ózbekstan 🇺🇿
 
-Company:
+Kompaniya:
   KETA.COMP
 
-Role:
+Lawazımı:
   Founder & Product Builder
 
-Mission:
-  Building AI-powered
-  business systems
-  that create real impact.
-```
+Maqseti:
+  AI texnologiyalarına tiykarlanǵan
+  biznes sistemaların jaratıp,
+  haqıyqıy áser kórsetiw.
+````
 
 ---
 
-# 💡 What I Build
+# 💡 Men ne jarataman
 
-- 🤖 AI Applications
-- 🏢 ERP Systems
-- 📊 CRM Platforms
-- ⚡ Business Automation
-- ☁️ SaaS Products
-- 🌐 Modern Web Applications
+* 🤖 AI qosımshaları
+* 🏢 ERP sistemaları
+* 📊 CRM platformaları
+* ⚡ Biznes avtomatlastrıw sistemaları
+* ☁️ SaaS ónimleri
+* 🌐 Zamanaǵóy web qosımshaları
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Texnologiyalar
 
 <p align="center">
 
@@ -73,30 +75,33 @@ Mission:
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Tiykarǵı joybarlarım
 
 ### 🦅 KETA.COMP
-Engineering Digital Ecosystems
+
+Sanlı ekosistemalardı injenerlik negizinde jaratıw.
 
 ### 🤖 Keleshek AI
-AI-powered education platform.
+
+Bilim beriw ushın AI platforması.
 
 ### 💒 Toyxana Dream Hub
-Digital ecosystem for wedding halls.
+
+Toyxanalar ushın sanlı ekosistema.
 
 ### 🤝 Huggables Buddy Finder
-AI-powered social platform.
 
+AI tiykarında isleytuǵın social platforma.
 
 ---
 
-# 📫 Connect With Me
+# 📫 Baylanıs
 
 <p align="center">
 
 🌐 https://keta.uz
 
-📧 nursultansayyora@gmail.com
+📧 [nursultansayyora@gmail.com](mailto:nursultansayyora@gmail.com)
 
 💬 https://t.me/nursultan_khalmuratov
 
@@ -110,10 +115,11 @@ AI-powered social platform.
 
 # 🦅 KETA.COMP
 
-### Building Systems. Creating Impact.
+### Sistemalar jaratamız. Áser qaldıramız.
 
-*"Engineering digital ecosystems with AI."*
+*"AI járdeminde sanlı ekosistemalardı injenerlik negizinde jaratamız."*
 
-⭐ Thanks for visiting my profile!
+⭐ Profilime kirgenińiz ushın raxmet!
 
 </div>
+```
