@@ -1,30 +1,30 @@
-````md
+````markdown
 <p align="center">
-  <img src="./banner.png" width="240" alt="KETA.COMP">
+  <img src="./banner.png" alt="KETA.COMP Banner" width="100%" />
 </p>
 
-<h1 align="center">Sálem 👋 Men Nursultan Xalmuratov</h1>
+<h1 align="center">👋 Sálem, men Nursultan Xalmuratov</h1>
 
 <h3 align="center">
-<a href="https://keta.uz">KETA.COMP</a> kompaniyasınıń negizlewshisi hám Product Builderi
+KETA.COMP kompaniyasınıń negizlewshisi hám Product Builderi
 </h3>
 
 <p align="center">
-Bizneslerdi avtomatlastrıw, ösiriw hám rawajlandırıw ushın AI texnologiyalarına tiykarlanǵan sanlı sistemalardı jarataman.
+AI járdeminde biznesler ushın zamanaǵóy sanlı sistemalar, ERP, CRM hám avtomatlastrıw sheshimlerin jarataman.
 </p>
 
 <p align="center">
-<a href="https://keta.uz">
-<img src="https://img.shields.io/badge/Website-KETA.UZ-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+  <a href="https://keta.uz">
+    <img src="https://img.shields.io/badge/Website-KETA.UZ-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-<a href="https://t.me/nursultan_khalmuratov">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+  <a href="https://t.me/nursultan_khalmuratov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 
-<a href="https://instagram.com/nursultan_khalmuratov">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://instagram.com/nursultan_khalmuratov">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -35,9 +35,9 @@ Bizneslerdi avtomatlastrıw, ösiriw hám rawajlandırıw ushın AI texnologiyal
 Atı:
   Nursultan Xalmuratov
 
-Jaylasqan jer:
-  Kegeyli rayonı,
-  Qaraqalpaqstan Respublikası,
+Jaylasqan jeri:
+  Kegeyli rayonı
+  Qaraqalpaqstan Respublikası
   Ózbekstan 🇺🇿
 
 Kompaniya:
@@ -46,22 +46,23 @@ Kompaniya:
 Lawazımı:
   Founder & Product Builder
 
-Maqseti:
-  AI texnologiyalarına tiykarlanǵan
-  biznes sistemaların jaratıp,
-  haqıyqıy áser kórsetiw.
-````
+Maqsetim:
+  AI texnologiyaları járdeminde
+  biznesler ushın paydalı,
+  aqıllı hám kúshli
+  sanlı ekosistemalar jaratıw.
+```
 
 ---
 
-# 💡 Men ne jarataman
+# 💡 Men ne islep shıǵaman
 
-* 🤖 AI qosımshaları
-* 🏢 ERP sistemaları
-* 📊 CRM platformaları
-* ⚡ Biznes avtomatlastrıw sistemaları
-* ☁️ SaaS ónimleri
-* 🌐 Zamanaǵóy web qosımshaları
+- 🤖 AI qosımshaları
+- 🏢 ERP sistemaları
+- 📊 CRM platformaları
+- ⚡ Biznes avtomatlastrıw sistemaları
+- ☁️ SaaS platformaları
+- 🌐 Zamanaǵóy web qosımshaları
 
 ---
 
@@ -69,7 +70,7 @@ Maqseti:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel,cloudflare,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,nextjs,tailwind,nodejs,postgres,supabase,git,github,vercel,cloudflare,vscode,figma" />
 
 </p>
 
@@ -77,21 +78,28 @@ Maqseti:
 
 # 🌟 Tiykarǵı joybarlarım
 
-### 🦅 KETA.COMP
+## 🦅 KETA.COMP
+**Engineering Digital Ecosystems**
 
-Sanlı ekosistemalardı injenerlik negizinde jaratıw.
+AI járdeminde biznesler ushın zamanaǵóy sanlı ekosistemalar.
 
-### 🤖 Keleshek AI
+---
 
-Bilim beriw ushın AI platforması.
+## 🤖 Keleshek AI
 
-### 💒 Toyxana Dream Hub
+Oqıwshılarǵa óz qábiletlerin ashıw, kásip tanlaw hám joqarı oqıw ornına tayarlanıw ushın AI platforması.
 
-Toyxanalar ushın sanlı ekosistema.
+---
 
-### 🤝 Huggables Buddy Finder
+## 💒 Toyxana Dream Hub
 
-AI tiykarında isleytuǵın social platforma.
+Toyxanalar ushın QR-menu, bronlaw, qonaqlar menen baylanıs hám biznes basqarıw sisteması.
+
+---
+
+## 🤝 Huggables Buddy Finder
+
+AI járdeminde jańa doslar tabıw hám social baylanıslardı rawajlandırıw platforması.
 
 ---
 
@@ -101,7 +109,7 @@ AI tiykarında isleytuǵın social platforma.
 
 🌐 https://keta.uz
 
-📧 [nursultansayyora@gmail.com](mailto:nursultansayyora@gmail.com)
+📧 nursultansayyora@gmail.com
 
 💬 https://t.me/nursultan_khalmuratov
 
@@ -115,11 +123,11 @@ AI tiykarında isleytuǵın social platforma.
 
 # 🦅 KETA.COMP
 
-### Sistemalar jaratamız. Áser qaldıramız.
+### Sanlı ekosistemalardı jaratamız. Keleshekti quramız.
 
-*"AI járdeminde sanlı ekosistemalardı injenerlik negizinde jaratamız."*
+**"Engineering Digital Ecosystems with AI."**
 
-⭐ Profilime kirgenińiz ushın raxmet!
+⭐ Profilime kirgenińiz ushın úlken raxmet!
 
 </div>
-```
+````
